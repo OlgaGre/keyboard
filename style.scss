@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    width: 770px;
+    margin: 0 auto;
+}
+
+@mixin square-button() {
+    width: 40px;
+    height: 50px;
+    border: solid 1px black;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+}
+
+@mixin rectangle-button() {
+    height: 50px;
+    border: solid 1px black;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+}
+
+@mixin font-title {
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 44px;
+}
+
+@mixin font-letter-button {
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+@mixin font-simbol-button {
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.title {
+    @include font-title()
+}
+
+.textarea {
+    width: 770px;
+    margin-top: 10px;
+}
+
+.button {
+    text-align: center;
+    justify-content: center;
+}
+
+.active {
+    background-color: white;
+}
+
+.square-button {
+    @include square-button();
+    float: left;
+}
+
+.space-button {
+    @include rectangle-button();
+    width: 340px;
+}
+
+.double-button {
+    @include rectangle-button();
+    width: 90px;
+}
+
+.KEYBOARD {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background-color: red;
+    width: 770px;
+    margin: 20px auto;
+}

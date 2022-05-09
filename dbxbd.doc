@@ -1,0 +1,76 @@
+0: KeyboardEvent {isTrusted: true, key: '`', code: 'Backquote', location: 0, ctrlKey: false, …}
+1: KeyboardEvent {isTrusted: true, key: '1', code: 'Digit1', location: 0, ctrlKey: false, …}
+2: KeyboardEvent {isTrusted: true, key: '2', code: 'Digit2', location: 0, ctrlKey: false, …}
+3: KeyboardEvent {isTrusted: true, key: '3', code: 'Digit3', location: 0, ctrlKey: false, …}
+4: KeyboardEvent {isTrusted: true, key: '4', code: 'Digit4', location: 0, ctrlKey: false, …}
+5: KeyboardEvent {isTrusted: true, key: '5', code: 'Digit5', location: 0, ctrlKey: false, …}
+6: KeyboardEvent {isTrusted: true, key: '6', code: 'Digit6', location: 0, ctrlKey: false, …}
+7: KeyboardEvent {isTrusted: true, key: '7', code: 'Digit7', location: 0, ctrlKey: false, …}
+8: KeyboardEvent {isTrusted: true, key: '8', code: 'Digit8', location: 0, ctrlKey: false, …}
+9: KeyboardEvent {isTrusted: true, key: '9', code: 'Digit9', location: 0, ctrlKey: false, …}
+10: KeyboardEvent {isTrusted: true, key: '0', code: 'Digit0', location: 0, ctrlKey: false, …}
+11: KeyboardEvent {isTrusted: true, key: '-', code: 'Minus', location: 0, ctrlKey: false, …}
+12: KeyboardEvent {isTrusted: true, key: '=', code: 'Equal', location: 0, ctrlKey: false, …}
+13: KeyboardEvent {isTrusted: true, key: 'Backspace', code: 'Backspace', location: 0, ctrlKey: false, …}
+14: KeyboardEvent {isTrusted: true, key: 'Tab', code: 'Tab', location: 0, ctrlKey: false, …}
+15: KeyboardEvent {isTrusted: true, key: 'Q', code: 'KeyQ', location: 0, ctrlKey: false, …}
+16: KeyboardEvent {isTrusted: true, key: 'W', code: 'KeyW', location: 0, ctrlKey: false, …}
+17: KeyboardEvent {isTrusted: true, key: 'E', code: 'KeyE', location: 0, ctrlKey: false, …}
+18: KeyboardEvent {isTrusted: true, key: 'R', code: 'KeyR', location: 0, ctrlKey: false, …}
+19: KeyboardEvent {isTrusted: true, key: 'T', code: 'KeyT', location: 0, ctrlKey: false, …}
+20: KeyboardEvent {isTrusted: true, key: 'Y', code: 'KeyY', location: 0, ctrlKey: false, …}
+21: KeyboardEvent {isTrusted: true, key: 'U', code: 'KeyU', location: 0, ctrlKey: false, …}
+22: KeyboardEvent {isTrusted: true, key: 'I', code: 'KeyI', location: 0, ctrlKey: false, …}
+23: KeyboardEvent {isTrusted: true, key: 'O', code: 'KeyO', location: 0, ctrlKey: false, …}
+24: KeyboardEvent {isTrusted: true, key: 'P', code: 'KeyP', location: 0, ctrlKey: false, …}
+25: KeyboardEvent {isTrusted: true, key: '[', code: 'BracketLeft', location: 0, ctrlKey: false, …}
+26: KeyboardEvent {isTrusted: true, key: ']', code: 'BracketRight', location: 0, ctrlKey: false, …}
+27: KeyboardEvent {isTrusted: true, key: '\\', code: 'Backslash', location: 0, ctrlKey: false, …}
+28: KeyboardEvent {isTrusted: true, key: 'CapsLock', code: 'CapsLock', location: 0, ctrlKey: false, …}
+29: KeyboardEvent {isTrusted: true, key: 'a', code: 'KeyA', location: 0, ctrlKey: false, …}
+30: KeyboardEvent {isTrusted: true, key: 's', code: 'KeyS', location: 0, ctrlKey: false, …}
+31: KeyboardEvent {isTrusted: true, key: 'd', code: 'KeyD', location: 0, ctrlKey: false, …}
+32: KeyboardEvent {isTrusted: true, key: 'f', code: 'KeyF', location: 0, ctrlKey: false, …}
+33: KeyboardEvent {isTrusted: true, key: 'g', code: 'KeyG', location: 0, ctrlKey: false, …}
+34: KeyboardEvent {isTrusted: true, key: 'h', code: 'KeyH', location: 0, ctrlKey: false, …}
+35: KeyboardEvent {isTrusted: true, key: 'j', code: 'KeyJ', location: 0, ctrlKey: false, …}
+36: KeyboardEvent {isTrusted: true, key: 'k', code: 'KeyK', location: 0, ctrlKey: false, …}
+37: KeyboardEvent {isTrusted: true, key: 'l', code: 'KeyL', location: 0, ctrlKey: false, …}
+38: KeyboardEvent {isTrusted: true, key: ';', code: 'Semicolon', location: 0, ctrlKey: false, …}
+39: KeyboardEvent {isTrusted: true, key: "'", code: 'Quote', location: 0, ctrlKey: false, …}
+40: KeyboardEvent {isTrusted: true, key: 'Enter', code: 'Enter', location: 0, ctrlKey: false, …}
+41: KeyboardEvent {isTrusted: true, key: 'Shift', code: 'ShiftLeft', location: 1, ctrlKey: false, …}
+42: KeyboardEvent {isTrusted: true, key: 'z', code: 'KeyZ', location: 0, ctrlKey: false, …}
+43: KeyboardEvent {isTrusted: true, key: 'x', code: 'KeyX', location: 0, ctrlKey: false, …}
+44: KeyboardEvent {isTrusted: true, key: 'c', code: 'KeyC', location: 0, ctrlKey: false, …}
+45: KeyboardEvent {isTrusted: true, key: 'v', code: 'KeyV', location: 0, ctrlKey: false, …}
+46: KeyboardEvent {isTrusted: true, key: 'b', code: 'KeyB', location: 0, ctrlKey: false, …}
+47: KeyboardEvent {isTrusted: true, key: 'n', code: 'KeyN', location: 0, ctrlKey: false, …}
+48: KeyboardEvent {isTrusted: true, key: 'm', code: 'KeyM', location: 0, ctrlKey: false, …}
+49: KeyboardEvent {isTrusted: true, key: ',', code: 'Comma', location: 0, ctrlKey: false, …}
+50: KeyboardEvent {isTrusted: true, key: '.', code: 'Period', location: 0, ctrlKey: false, …}
+51: KeyboardEvent {isTrusted: true, key: '/', code: 'Slash', location: 0, ctrlKey: false, …}
+52: KeyboardEvent {isTrusted: true, key: 'Shift', code: 'ShiftRight', location: 2, ctrlKey: false, …}
+53: KeyboardEvent {isTrusted: true, key: 'Control', code: 'ControlLeft', location: 1, ctrlKey: true, …}
+54: KeyboardEvent {isTrusted: true, key: 'Meta', code: 'MetaLeft', location: 1, ctrlKey: false, …}
+55: KeyboardEvent {isTrusted: true, key: 'Alt', code: 'AltLeft', location: 1, ctrlKey: false, …}
+56: KeyboardEvent {isTrusted: true, key: ' ', code: 'Space', location: 0, ctrlKey: false, …}
+57: KeyboardEvent {isTrusted: true, key: 'Alt', code: 'AltRight', location: 2, ctrlKey: false, …}
+58: KeyboardEvent {isTrusted: true, key: 'Control', code: 'ControlRight', location: 2, ctrlKey: true, …}
+59: KeyboardEvent {isTrusted: true, key: 'ArrowLeft', code: 'ArrowLeft', location: 0, ctrlKey: false, …}
+60: KeyboardEvent {isTrusted: true, key: 'ArrowUp', code: 'ArrowUp', location: 0, ctrlKey: false, …}
+61: KeyboardEvent {isTrusted: true, key: 'ArrowDown', code: 'ArrowDown', location: 0, ctrlKey: false, …}
+62: KeyboardEvent {isTrusted: true, key: 'ArrowRight', code: 'ArrowRight', location: 0, ctrlKey: false, …}
+
+ npx eslint script.js --fix
+ let arrCode = ['`', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '-', '=', 'Backspace', 'Tab', 'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p', '[', ']', '\\', 'Delete', 'CapsLock', 'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', ';', "'", 'Enter', 'Shift', 'z', 'x', 'c', 'v', 'b', 'n', 'm', ',', '.', '/', 'ArrowUp', 'Shift', 'Control', 'Meta', 'Alt', ' ', 'Alt', 'ArrowLeft', 'ArrowDown', 'ArrowRight', 'Control'];
+
+
+ 
+}
+else if (event.shiftKey == true) {
+
+        let changeButton = document.querySelectorAll('.changeButton');
+        changeButton = shiftEnArr;
+        document.querySelector(`.button[data='${event.key}']`).classList.add('active');
+    }
