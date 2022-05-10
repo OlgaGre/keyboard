@@ -71,6 +71,10 @@ body {
   width: 90px;
 }
 
+.active-caps {
+  background-color: blue;
+}
+
 .KEYBOARD {
   display: -webkit-box;
   display: -ms-flexbox;

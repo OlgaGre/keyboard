@@ -74,3 +74,10 @@ else if (event.shiftKey == true) {
         changeButton = shiftEnArr;
         document.querySelector(`.button[data='${event.key}']`).classList.add('active');
     }
+
+
+    else if (arr[i].match(regextNum)) {
+            buttonsInKeyboard += ` <div class="square-button button changeButton" data="${ arr[i]}">${ arr[i]}</div>`
+        } else if (arr[i].match(regexLetter)) {
+            buttonsInKeyboard += ` <div class="square-button button changeButton" data="${ arr[i]}">${ arr[i]}</div>`
+        }
