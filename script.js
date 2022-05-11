@@ -1,8 +1,10 @@
 //let  arr = ['Backquote', 'Digit1', 'Digit2', 'Digit3', 'Digit4', 'Digit5', 'Digit6', 'Digit7', 'Digit8', 'Digit9', 'Digit0', 'Minus', 'Equal', 'Backspace', 'Tab', 'KeyQ', 'KeyW', 'KeyE', 'KeyR', 'KeyT', 'KeyY', 'KeyU', 'KeyI', 'KeyO', 'KeyP', 'BracketLeft', 'BracketRight', 'Backslash', 'CapsLock', 'KeyA', 'KeyS', 'KeyD', 'KeyF', 'KeyG', 'KeyH', 'KeyJ', 'KeyK', 'KeyL', 'Semicolon', 'Quote', 'Enter', 'ShiftLeft', 'KeyZ', 'KeyX', 'KeyC', 'KeyV', 'KeyB', 'KeyN', 'KeyM', 'Comma', 'Period', 'Slash', 'ShiftRight', 'ControlLeft', 'MetaLeft', 'AltLeft', 'Space', 'AltRight', 'ControlRight', 'ArrowLeft', 'ArrowUp', 'ArrowDown', 'ArrowRight']
-let arrEnCode = ['`', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '-', '=', 'Backspace', 'Tab', 'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p', '[', ']', '\\', 'Delete', 'CapsLock', 'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', ';', "'", 'Enter', 'Shift', 'z', 'x', 'c', 'v', 'b', 'n', 'm', ',', '.', '/', 'ArrowUp', 'Shift', 'Control', 'Meta', 'Alt', ' ', 'Alt', 'ArrowLeft', 'ArrowDown', 'ArrowRight', 'Control'];
-let shiftEnCode = ['~', '!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '_', '+', 'Backspace', 'Tab', 'Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P', '{', '}', '|', 'Delete', 'CapsLock', 'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L', ':', '"', 'Enter', 'Shift', 'Z', 'X', 'C', 'V', 'B', 'N', 'M', '<', '>', '?', 'ArrowUp', 'Shift', 'Control', 'Meta', 'Alt', ' ', 'Alt', 'ArrowLeft', 'ArrowDown', 'ArrowRight', 'Control'];
-let capsEnCode = ['`', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '-', '=', 'Backspace', 'Tab', 'Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P', '{', '}', '|', 'Delete', 'CapsLock', 'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L', ':', '"', 'Enter', 'Shift', 'Z', 'X', 'C', 'V', 'B', 'N', 'M', '<', '>', '?', 'ArrowUp', 'Shift', 'Control', 'Meta', 'Alt', ' ', 'Alt', 'ArrowLeft', 'ArrowDown', 'ArrowRight', 'Control']
-    //let arrRuCode = ['ё', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '-', '=', 'backspace', 'tab', 'й', 'ц', 'у', 'к', 'е', 'н', 'г', 'ш', 'щ', 'з', 'х', 'ъ', '/', 'del', 'caps lock', 'ф', 'ы', 'в', 'а', 'п', 'р', 'о', 'л', 'д', 'ж', 'э', 'enter', 'shift', 'я', 'ч', 'с', 'м', 'и', 'т', 'ь', 'б', 'ю', '.', '&#8593;', ' shift', 'ctrl', 'win', 'alt', 'space', 'alt', '&#8592;', '&#8595;', '&#8594;', 'ctrl']
+let arrEnCode = ['`', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '-', '=', 'Backspace', 'Tab', 'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p', '[', ']', '\\', 'Deleteete', 'CapsLock', 'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', ';', "'", 'Enter', 'Shift', 'z', 'x', 'c', 'v', 'b', 'n', 'm', ',', '.', '/', 'ArrowUp', 'Shift', 'Control', 'Meta', 'Alt', ' ', 'Alt', 'ArrowLeft', 'ArrowDown', 'ArrowRight', 'Control'];
+let ShiftEnCode = ['~', '!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '_', '+', 'Backspace', 'Tab', 'Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P', '{', '}', '|', 'Deleteete', 'CapsLock', 'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L', ':', '"', 'Enter', 'Shift', 'Z', 'X', 'C', 'V', 'B', 'N', 'M', '<', '>', '?', 'ArrowUp', 'Shift', 'Control', 'Meta', 'Alt', ' ', 'Alt', 'ArrowLeft', 'ArrowDown', 'ArrowRight', 'Control'];
+let capsEnCode = ['`', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '-', '=', 'Backspace', 'Tab', 'Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P', '{', '}', '|', 'Deleteete', 'CapsLock', 'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L', ':', '"', 'Enter', 'Shift', 'Z', 'X', 'C', 'V', 'B', 'N', 'M', '<', '>', '?', 'ArrowUp', 'Shift', 'Control', 'Meta', 'Alt', ' ', 'Alt', 'ArrowLeft', 'ArrowDown', 'ArrowRight', 'Control']
+let arrRuCode = ['ё', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '-', '=', 'Backspace', 'Tab', 'й', 'ц', 'у', 'к', 'е', 'н', 'г', 'ш', 'щ', 'з', 'х', 'ъ', '/', 'Delete', 'CapsLock', 'ф', 'ы', 'в', 'а', 'п', 'р', 'о', 'л', 'д', 'ж', 'э', 'Enter', 'Shift', 'я', 'ч', 'с', 'м', 'и', 'т', 'ь', 'б', 'ю', '.', 'ArrowUp', 'Shift', 'ctrl', 'win', 'alt', ' ', 'alt', 'ArrowLeft', 'ArrowDown', 'ArrowRight', 'ctrl']
+let capstRuCode = ['Ё', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', '-', '=', 'Backspace', 'Tab', 'Й', 'Ц', 'У', 'К', 'Е', 'Н', 'Г', 'Ш', 'Щ', 'З', 'Х', 'Ъ', '/', 'Delete', 'CapsLock', 'Ф', 'Ы', 'В', 'А', 'П', 'Р', 'О', 'Л', 'Д', 'Ж', 'Э', 'Enter', 'Shift', 'Я', 'Ч', 'С', 'М', 'И', 'Т', 'Ь', 'Б', 'Ю', '.', 'ArrowUp', 'Shift', 'ctrl', 'win', 'alt', ' ', 'alt', 'ArrowLeft', 'ArrowDown', 'ArrowRight', 'ctrl']
+let ShiftRuCode = ['~', '!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '_', '+', 'Backspace', 'Tab', 'Й', 'Ц', 'У', 'К', 'Е', 'Н', 'Г', 'Ш', 'Щ', 'З', 'Х', 'Ъ', '/', 'Delete', 'CapsLock', 'Ф', 'Ы', 'В', 'А', 'П', 'Р', 'О', 'Л', 'Д', 'Ж', 'Э', 'Enter', 'Shift', 'Я', 'Ч', 'С', 'М', 'И', 'Т', 'Ь', 'Б', 'Ю', '.', 'ArrowUp', 'Shift', 'ctrl', 'win', 'alt', ' ', 'alt', 'ArrowLeft', 'ArrowDown', 'ArrowRight', 'ctrl']
 
 // при загруске 
 function doKeyboerd(arr = arrEnCode) {
@@ -20,7 +22,7 @@ function doKeyboerd(arr = arrEnCode) {
         }
 
     }
-    letterArr = document.getElementsByClassName('letter')
+    // letterArr = document.getElementsByClassName('letter')
     document.querySelector('.KEYBOARD').insertAdjacentHTML("beforeend", buttonsInKeyboard);
 }
 
@@ -54,11 +56,18 @@ function capsActive() {
 
 }
 
-function capsDeleteActive() {
+function capsDeleteeteActive() {
     document.getElementById('KEYBOARD').innerHTML = "";
     doKeyboerd(arrEnCode);
     let capsButton = document.querySelector(`.button[data='CapsLock']`);
     capsButton.classList.remove('active-caps');
+
+}
+
+function doRuKeyboard(event) {
+
+    document.getElementById('KEYBOARD').innerHTML = "";
+    doKeyboerd(arrRuCode)
 
 }
 
@@ -69,36 +78,32 @@ function capsDeleteActive() {
 //         console.log( arr);
 //     }
 //  .addEventListener('keydown', addCode)
-function doubleKeyDown(event) {
 
-}
 textarea.onblur = function() {
     document.querySelectorAll('.button').forEach(el => el.classList.remove('active'))
 }
 textarea.onkeydown = function(event) {
-    // проверка капса
-
-
-
     // проверка на шифт 
-    if (event.key == 'Shift' && event.key != 'CapsLock') {
+    if (event.key == 'Shift' && event.key != 'CapsLock' && event.altKey == false) {
+
 
         document.getElementById('KEYBOARD').innerHTML = "";
-        doKeyboerd(shiftEnCode)
+        doKeyboerd(ShiftEnCode)
         document.querySelector(`.button[data='${event.key}']`).classList.add('active');
-    } //проверк alt ctr
-    if (event.key == 'CapsLock') {
+    } else if (event.key == 'Shift' && event.altKey == true) {
+        doRuKeyboard()
+    } else if (event.key == 'CapsLock') {
         if (document.querySelector(`.button[data='${event.key}']`).classList.contains('active-caps') == true) {
-            capsDeleteActive()
+            capsDeleteeteActive()
         } else {
             capsActive()
         }
-    }
-    if (event.ctrlKey == true || event.altKey == true || event.shiftKey == true && event.key != 'CapsLock') {
+    } //проверк alt ctr
+    if (event.ctrlKey == true || event.altKey == true || event.ShiftKey == true && event.key != 'CapsLock') {
 
         document.querySelector(`.button[data='${event.key}']`).classList.add('active');
     } // вторая кнопка при шрифте
-    else if (event.shiftKey == 'Shift' && event.key != 'CapsLock') {
+    else if (event.ShiftKey == 'Shift' && event.key != 'CapsLock') {
         document.querySelector(`.button[data='${event.key}']`).classList.add('active');
     } else if (event.key != 'CapsLock') {
 
@@ -124,9 +129,10 @@ textarea.onkeyup = function(event) {
 // document.onkeydown = function(event) {
 //     // console.log(event)
 //     if (event.key != 'Shift') {
-//         shiftArr.push(event.key)
+//         ShiftArr.push(event.key)
 //     }
 
-//     console.log(shiftArr)
+//     console.log(ShiftArr)
 // }
-KEYBOARD.addEventListener('keydown', capsActive);
+// KEYBOARD.addEventListener('keydown', capsActive);
+// KEYBOARD.addEventListener('keydown', doRuKeyboard);
